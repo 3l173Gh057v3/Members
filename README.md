@@ -12,4 +12,4 @@
 | Ajai | - |
 | 0xwan | - |
 | Assasin | "Crowd Controller" |
-| JustPro |  |
+| JustPro | "Just one vulnerability that I need" |
