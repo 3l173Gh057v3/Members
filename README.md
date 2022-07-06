@@ -10,6 +10,6 @@
 | Alien | From another planet |
 | M | - |
 | Ajai | - |
-| 0xwan | - |
+| 0xw4n | - |
 | Assasin | "Crowd Controller" |
 | JustPro | "Just one vulnerability that I need" |
