@@ -11,4 +11,5 @@
 | M | - |
 | Ajai | - |
 | 0xwan | - |
-| K | - |
+| Assasin | "Crowd Controller" |
+| JustPro |  |
