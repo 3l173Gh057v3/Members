@@ -4,7 +4,7 @@
 |--|--|
 | Ryden | Leader of EGv3 |
 | g3nj1z | Maintainer of the github |
-| RajaBersiong | A person who does magic things. 
+| RajaBersiong | What you just pulled code from Rapid9 or some shit, Since when did you become a Script Kitty? | 
 | az4m5shah | You can't own it, if you don't root it |
 | Skidrow | Skidipapam |
 | Alien | From another planet |
