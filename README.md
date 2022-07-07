@@ -1,6 +1,6 @@
 # Official EGv3 Members
 
-| Name | Roles/Hacking Quotes |
+| Name | Roles / Hacking Quotes |
 |--|--|
 | Ryden | Leader of EGv3 |
 | g3nj1z | Maintainer of the github |
