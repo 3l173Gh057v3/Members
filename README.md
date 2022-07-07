@@ -8,7 +8,7 @@
 | az4m5shah | You can't own it, if you don't root it |
 | Skidrow | Skidipapam |
 | Alien | From another planet |
-| K1DzGanas | - |
+| K1DzGanas | Tak ganas sebenanrya :P |
 | Ajai | We work in dark to serve the light  |
 | yourld | privacy is a myth |
 | 0xw4n | Saya hensem :3 |
