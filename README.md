@@ -8,7 +8,7 @@
 | az4m5shah | You can't own it, if you don't root it |
 | Skidrow | Skidipapam |
 | Alien | From another planet |
-| 0xD0Z | You need a hacker to stop a hacker |
+| 0xD0z | You need a hacker to stop a hacker |
 | Ajai | We work in dark to serve the light  |
 | yourld | privacy is a myth |
 | 0xw4n | Saya hensem :3 |
