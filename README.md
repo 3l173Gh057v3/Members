@@ -14,3 +14,4 @@
 | 0xw4n | Saya hensem :3 |
 | Assasin | "Crowd Controller" |
 | JustPro | "Just one vulnerability that I need" |
+| Didi | Living the dark, serving the light |
