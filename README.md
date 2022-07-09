@@ -15,3 +15,4 @@
 | Assasin | "Crowd Controller" |
 | JustPro | "Just one vulnerability that I need" |
 | Didi | Living the dark, serving the light |
+| Secploity | Rai comel |
