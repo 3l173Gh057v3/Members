@@ -17,5 +17,4 @@
 | Didi | Living the dark, serving the light |
 | Secploity | Manipulate the manipulator |
 | Axsiv | Don't hate hacker, hate the code |
-| XP3RT | Kita bukan tidak pandai,tetapi kita belum lagi pandai.
-Jika kita rasa kita dah pandai,ada orang yang lebih pandai. |
+| XP3RT | Kita bukan tidak pandai,tetapi kita belum lagi pandai.Jika kita rasa kita dah pandai,ada orang yang lebih pandai. |
