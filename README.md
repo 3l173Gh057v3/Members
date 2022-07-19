@@ -19,3 +19,4 @@
 | Axsiv | Don't hate hacker, hate the code |
 | XP3RT | Kita bukan tidak pandai,tetapi kita belum lagi pandai.Jika kita rasa kita dah pandai,ada orang yang lebih pandai. |
 | Jerung669 | A hacker to me is someone creative who does wonderful things 😉 |
+| ComotSec| aaaa |
