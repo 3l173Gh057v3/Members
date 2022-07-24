@@ -21,4 +21,4 @@
 | Jerung669 | A hacker to me is someone creative who does wonderful things 😉 |
 | ComotSec| aaaa |
 | DidiGhost |  |
-| daisyBlackforest |  |
+| daisyBlackforest | Benda pun dah belajar, enjoy je la ye? |
