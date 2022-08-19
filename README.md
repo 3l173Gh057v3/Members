@@ -3,7 +3,7 @@
 | Name | Roles / Hacking Quotes |
 |--|--|
 | Ryden | Leader of EGv3 |
-| TapauServer | Maintainer of the Github,Discord & Youtube | 
+| TapauServer | Maintainer of the Github & Discord | 
 | az4m5shah | You can't own it, if you don't root it |
 | Skidrow | Skidipapam |
 | Alien | From another planet |
