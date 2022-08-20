@@ -22,4 +22,5 @@
 | daisyBlackforest | Benda pun dah belajar, enjoy je la ye? |
 | CYBER Z | Prevention is Better Than Cure |
 | K!dD0sz | "Amateurs hack system, Professionals hack people" |
+| GIN | - Memang Premium |
 
